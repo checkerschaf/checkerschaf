@@ -2,5 +2,5 @@
 
 #### Hi there, 👋
 
-> I'm studying in Hamburg ⚓ and working as a software developer.
+> I'm studying in Hamburg ⚓ and working as a software developer.  
 > Current spare time project: [sherlock-deno](https://github.com/checkerschaf/sherlock-deno). 🕵️
