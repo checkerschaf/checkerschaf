@@ -1,8 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=checkerschaf&show_icons=true&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217&hide_title=true&count_private=true&hide=contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=checkerschaf&show_icons=true&theme=transparent&hide_title=true&count_private=true&hide=contribs" />
 
-#### Hi there, 👋
+# Hi, I'm Jan! 👋
 
-> I'm studying in Hamburg ⚓ and working as a software developer.  
-> Latest public spare time project: [sherlock-deno](https://github.com/checkerschaf/sherlock-deno). 🕵️
+A software developer from Hamburg with more than 10 years of experience. 🚀
 
+### Links 🔗
 
+- [LinkedIn](https://www.linkedin.com/in/jan-poth/)
+- [Portfolio](https://janpoth.de/en)
+- [Projects](https://janpoth.de/en/projects)
+    - [sherlock-deno](https://janpoth.de/en/projects/sherlock-deno): Search usernames on the Internet
