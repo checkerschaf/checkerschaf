@@ -10,3 +10,5 @@ A software developer from Hamburg with more than 10 years of experience. 🚀
 - [Portfolio](https://janpoth.de/en)
 - [Projects](https://janpoth.de/en/projects)
     - [sherlock-deno](https://janpoth.de/en/projects/sherlock-deno): Search usernames on the Internet
+- [Blog](https://janpoth.de/en/blog)
+    - [Playwright: Run E2E Tests against your Vercel Deployment using GitHub Actions](https://www.janpoth.de/en/blog/playwright-vercel-e2e-tests)
