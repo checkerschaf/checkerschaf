@@ -9,6 +9,7 @@ A software developer from Hamburg with more than 11 years of experience. 🚀
 - [LinkedIn](https://www.linkedin.com/in/jan-poth/)
 - [Portfolio](https://janpoth.de/en)
 - [Projects](https://janpoth.de/en/projects)
+    - [Config Wizard](https://www.config-wizard.com): The AI Configuration Generator 🪄✨
     - [sherlock-deno](https://janpoth.de/en/projects/sherlock-deno): Search usernames on the Internet
 - [Blog](https://janpoth.de/en/blog)
     - [Playwright: Run E2E Tests against your Vercel Deployment using GitHub Actions](https://www.janpoth.de/en/blog/playwright-vercel-e2e-tests)
