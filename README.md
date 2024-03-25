@@ -1,6 +1,6 @@
 # Hi, I'm Jan! 👋
 
-A software developer from Hamburg with more than 11 years of experience. 🚀
+A software developer from Hamburg with more than 12 years of experience. 🚀
 
 ### Links 🔗
 
